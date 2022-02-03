@@ -1,0 +1,33 @@
+[submodule "eurorack-minisystem-vxo-psu"]
+	path = eurorack-minisystem-vxo-psu
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-vxo-psu
+[submodule "eurorack-minisystem-jove"]
+	path = eurorack-minisystem-jove
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-jove
+[submodule "eurorack-minisystem-880"]
+	path = eurorack-minisystem-880
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-880
+[submodule "eurorack-minisystem-860"]
+	path = eurorack-minisystem-860
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-860
+[submodule "eurorack-minisystem-810"]
+	path = eurorack-minisystem-810
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-810
+[submodule "eurorack-minisystem-850"]
+	path = eurorack-minisystem-850
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-850
+[submodule "eurorack-minisystem-voice-card-socket"]
+	path = eurorack-minisystem-voice-card-socket
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-voice-card-socket
+[submodule "eurorack-minisystem-voice-card"]
+	path = eurorack-minisystem-voice-card
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-voice-card
+[submodule "eurorack-minisystem-VCF-VCA-SIP"]
+	path = eurorack-minisystem-VCF-VCA-SIP
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-VCF-VCA-SIP
+[submodule "eurorack-minisystem-eurorack"]
+	path = eurorack-minisystem-eurorack
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-eurorack
+[submodule "eurorack-minisystem-sip-modules"]
+	path = eurorack-minisystem-sip-modules
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-sip-modules
