@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name w_conn_pc)(type Legacy)(uri E:\Documents\KiCad\MyLibs\mod_conn_pc\w_conn_pc.mod)(options "")(descr ""))
+  (lib (name Connect)(type KiCad)(uri "$(KISYSMOD)/Connect.pretty")(options "")(descr ""))
+  (lib (name Connectors_Molex)(type KiCad)(uri "$(KISYSMOD)/Connectors_Molex.pretty")(options "")(descr ""))
+)

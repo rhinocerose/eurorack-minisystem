@@ -1,0 +1,9 @@
+#.gitignore
+
+report.txt
+*.dxf
+_autosave*
+_saved_*
+*.pdf
+*.wrl
+/shapes3D/
