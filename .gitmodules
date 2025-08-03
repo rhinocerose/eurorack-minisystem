@@ -6,19 +6,19 @@
 	url = git@git-rhino:rhinocerose/eurorack-minisystem-jove
 [submodule "eurorack-minisystem-880"]
 	path = eurorack-minisystem-880
-	url = git@git-rhino:rhinocerose/eurorack-minisystem-880
+	url = https://github.com/rhinocerose/eurorack-minisystem-880
 [submodule "eurorack-minisystem-860"]
 	path = eurorack-minisystem-860
-	url = git@git-rhino:rhinocerose/eurorack-minisystem-860
+	url = https://github.com/rhinocerose/eurorack-minisystem-860
 [submodule "eurorack-minisystem-810"]
 	path = eurorack-minisystem-810
-	url = git@git-rhino:rhinocerose/eurorack-minisystem-810
+	url = https://github.com/rhinocerose/eurorack-minisystem-810
 [submodule "eurorack-minisystem-850"]
 	path = eurorack-minisystem-850
-	url = git@git-rhino:rhinocerose/eurorack-minisystem-850
+	url = https://github.com/rhinocerose/eurorack-minisystem-850
 [submodule "eurorack-minisystem-voice-card-socket"]
 	path = eurorack-minisystem-voice-card-socket
-	url = git@git-rhino:rhinocerose/eurorack-minisystem-voice-card-socket
+	url = https://github.com/rhinocerose/eurorack-minisystem-voice-card-socket
 [submodule "eurorack-minisystem-voice-card"]
 	path = eurorack-minisystem-voice-card
 	url = git@git-rhino:rhinocerose/eurorack-minisystem-voice-card
@@ -31,3 +31,30 @@
 [submodule "eurorack-minisystem-sip-modules"]
 	path = eurorack-minisystem-sip-modules
 	url = git@git-rhino:rhinocerose/eurorack-minisystem-sip-modules
+[submodule "eurorack-minisystem-881"]
+	path = eurorack-minisystem-881
+	url = https://github.com/rhinocerose/eurorack-minisystem-881
+[submodule "eurorack-minisystem-880-firmware"]
+	path = eurorack-minisystem-880-firmware
+	url = https://github.com/rhinocerose/eurorack-minisystem-880-firmware
+[submodule "eurorack-minisystem-Jove"]
+	path = eurorack-minisystem-Jove
+	url = https://github.com/rhinocerose/eurorack-minisystem-Jove
+[submodule "eurorack-minisystem-820"]
+	path = eurorack-minisystem-820
+	url = https://github.com/rhinocerose/eurorack-minisystem-820
+[submodule "eurorack-minisystem-Apollo"]
+	path = eurorack-minisystem-Apollo
+	url = https://github.com/rhinocerose/eurorack-minisystem-Apollo
+[submodule "eurorack-minisystem-Voice-Card"]
+	path = eurorack-minisystem-Voice-Card
+	url = https://github.com/rhinocerose/eurorack-minisystem-Voice-Card
+[submodule "eurorack-minisystem-Eurorack"]
+	path = eurorack-minisystem-Eurorack
+	url = https://github.com/rhinocerose/eurorack-minisystem-Eurorack
+[submodule "eurorack-minisystem-SIP-Modules"]
+	path = eurorack-minisystem-SIP-Modules
+	url = https://github.com/rhinocerose/eurorack-minisystem-SIP-Modules
+[submodule "eurorack-minisystem-Panels"]
+	path = eurorack-minisystem-Panels
+	url = https://github.com/rhinocerose/eurorack-minisystem-Panels

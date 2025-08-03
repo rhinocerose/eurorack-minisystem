@@ -1,2 +1,0 @@
-# VCF-VCA-SIP
-VCF-VCA-SIP Module
