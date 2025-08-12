@@ -1,0 +1,56 @@
+[submodule "eurorack-minisystem-810"]
+	path = eurorack-minisystem-810
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-810
+	branch = main
+[submodule "eurorack-minisystem-820"]
+	path = eurorack-minisystem-820
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-820
+	branch = main
+[submodule "eurorack-minisystem-850"]
+	path = eurorack-minisystem-850
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-850
+	branch = main
+[submodule "eurorack-minisystem-860"]
+	path = eurorack-minisystem-860
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-860
+	branch = main
+[submodule "eurorack-minisystem-880"]
+	path = eurorack-minisystem-880
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-880
+	branch = main
+[submodule "eurorack-minisystem-880-firmware"]
+	path = eurorack-minisystem-880-firmware
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-880-firmware
+	branch = main
+[submodule "eurorack-minisystem-881"]
+	path = eurorack-minisystem-881
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-881
+	branch = main
+[submodule "eurorack-minisystem-Apollo"]
+	path = eurorack-minisystem-Apollo
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-Apollo
+	branch = main
+[submodule "eurorack-minisystem-Eurorack"]
+	path = eurorack-minisystem-Eurorack
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-Eurorack
+	branch = main
+[submodule "eurorack-minisystem-Jove"]
+	path = eurorack-minisystem-Jove
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-Jove
+	branch = main
+[submodule "eurorack-minisystem-Panels"]
+	path = eurorack-minisystem-Panels
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-Panels
+	branch = main
+[submodule "eurorack-minisystem-SIP-Modules"]
+	path = eurorack-minisystem-SIP-Modules
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-SIP-Modules
+	branch = main
+[submodule "eurorack-minisystem-Voice-Card"]
+	path = eurorack-minisystem-Voice-Card
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-Voice-Card
+	branch = main
+[submodule "eurorack-minisystem-voice-card-socket"]
+	path = eurorack-minisystem-voice-card-socket
+	url = git@git-rhino:rhinocerose/eurorack-minisystem-voice-card-socket
+	branch = main
